@@ -208,7 +208,7 @@ li {
 		color: #fff;
 	}
 	.ts-profile-nav{
-		@media  only screen and (in-width: 992px){
+		@media  only screen and (min-width: 992px){
 			display: none;
 		}
 	}
